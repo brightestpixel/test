@@ -7,7 +7,7 @@
 			<attribute name="javadoc_location" value="https://tastybento.github.io/askyblock/"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/Users/lukel/Documents/Spigot/Spigot/Spigot-API/target/spigot-api-1.12-R0.1-SNAPSHOT-shaded.jar">
+	<classpathentry kind="lib" path="D:/Users/lukel/Documents/Spigot/Spigot/Spigot-API/target/spigot-api-1.12.1-R0.1-SNAPSHOT-shaded.jar">
 		<attributes>
 			<attribute name="javadoc_location" value="https://hub.spigotmc.org/javadocs/spigot/"/>
 		</attributes>
