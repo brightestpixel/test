@@ -1,0 +1,9 @@
+name: ASkyBlockSearchWarp
+main: com.operation283.searchwarp.Plugin
+version: 1.0
+author: public_static
+description: Adds functionality to search through islands' descriptions and warp to the described island.
+commands:
+  searchwarp:
+    description: Teleports to an island matching the specified description.
+    usage: /searchwarp <search terms>
